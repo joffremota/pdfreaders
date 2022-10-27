@@ -1,0 +1,42 @@
+ REL.  M35  Relatorio Original  18/10/2022  09:17:25  PAG.  1 
+ PRÉ PEDIDO AGUARDANDO  APROVAÇÃO DIRETORA - 1.1.25 
+ 145471 
+ FOB 
+ AGRO SERRA INDUSTRIAL LTDA 
+ EMISSÃO:  18/10/2022  21/10/2022 
+ ENTREGA: 
+ A/C: 
+ CONTRATADA:  F00095  IPIRANGA PRODUTOS DE PETROLEO S.A 
+ Cidade:  São Luís  DIRECIONAMENTO-  Estoque 
+ CNPJ:  33.337.122/0043-86  I.E.:  120514192  Estado:  MA 
+ Nº  S/N 
+ Telefone:  98 3232 - 3440  Domingos da Silva So 
+ Endereço:  CAIS PORTO DE ITAQUI  Comprador: 
+ ADM.CAI AQUISIÇÃO DE COMPRA DE COMBUSTIVEL DIESEL S500 PARA ESTOQUE NO POSTO DE ABASTECIMENTO-USO NAS ATIVIDADES DA EMPRESA  MÊS 10/2022 
+ . SOLICITANTE SR. TELES 
+ Natureza:  Loc. Estq.:  01.012  Posto de   112  Estoque de Combustiveis -  
+ C.C.  01.20.05.25  PONTO DE ABASTECIMENTO  1075  COMBUSTIVEIS  T.D.R. 
+ RevSafra -  NÃO  89897  Abastecimento  (01.012) 
+ Requisição de Origem: 
+ Identificador_PC:  1658486 
+ ULTIMAS  
+ ITEM 
+ CODIGO / DESCRIÇÃO DO PRODUTO/MARCA  SALDO  QUANT.  UN  PREÇO UNT.  TOTAL 
+ DESC  IPI % 
+ BAIXAS 
+ 5,76 
+ OLEO DIESEL S500  81379  475.84  45.000,0  0,00  0  0 
+ 1  08.01.01.0001  L  259.002,00 
+ 1.37  0 
+ 15 Dias 
+ Forma de Pagamento -  Tipo de Frete:  FOB 
+ 01/11/2022  259.002,00 
+ 0,00 
+ IPI:  0,00 
+ 0,00  Descontos:  259.002,00 
+ ISS:  ICMS ST:  0,00 
+ Subtotal: 
+ Frete:  0,00  Despesas:  0,00  Impostos:  0,00 
+ 259.002,00 
+ Valor Total  Pedido: 
+ Valor Liquido a Pagar:  259.002,00 
