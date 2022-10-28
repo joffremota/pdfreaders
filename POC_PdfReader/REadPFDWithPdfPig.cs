@@ -1,4 +1,5 @@
-﻿using System.Linq;
+﻿using System;
+using System.Linq;
 using UglyToad.PdfPig;
 using UglyToad.PdfPig.Core;
 using UglyToad.PdfPig.Exceptions;
@@ -25,6 +26,10 @@ namespace POC_PdfReader
             {
                 return string.Empty;
             }
+            catch (InvalidOperationException)
+            {
+                return string.Empty;
+            }            
         }
     }
 }

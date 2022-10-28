@@ -1,6 +1,7 @@
 ﻿using iText.Kernel.Pdf;
 using iText.Kernel.Pdf.Canvas.Parser;
 using iText.Kernel.Pdf.Canvas.Parser.Listener;
+using System;
 using System.IO;
 using System.Text;
 
@@ -10,6 +11,7 @@ namespace POC_PdfReader
     {
         public static string ReadAllPagesFromPDF(out PdfDocument pdfDoc, string directory)
         {
+
             try
             {
                 StreamReader streamReader;
@@ -31,9 +33,10 @@ namespace POC_PdfReader
                 }
                 return resultado;
             }
-            catch (System.Exception)
+            catch (InvalidOperationException)
             {
-                throw;
+                pdfDoc = null;
+                return string.Empty;
             }
 
         }
